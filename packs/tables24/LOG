@@ -1,1 +1,5 @@
-2026/06/14-18:39:25.668 e030 Delete type=3 #1
+2026/06/14-19:57:59.666 12fb4 Delete type=3 #1
+2026/06/14-19:57:59.669 12bc0 Level-0 table #5: started
+2026/06/14-19:57:59.671 12bc0 Level-0 table #5: 92899 bytes OK
+2026/06/14-19:57:59.672 12bc0 Delete type=0 #3
+2026/06/14-19:57:59.673 12bc0 Manual compaction at level-0 from '!folders!6PmNgdAU8WO1cFlx' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)

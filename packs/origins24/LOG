@@ -1,1 +1,5 @@
-2026/06/14-18:39:25.648 e030 Delete type=3 #1
+2026/06/14-19:57:59.509 12fb4 Delete type=3 #1
+2026/06/14-19:57:59.512 12bc0 Level-0 table #5: started
+2026/06/14-19:57:59.514 12bc0 Level-0 table #5: 75125 bytes OK
+2026/06/14-19:57:59.515 12bc0 Delete type=0 #3
+2026/06/14-19:57:59.515 12bc0 Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)

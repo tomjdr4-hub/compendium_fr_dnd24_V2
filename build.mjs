@@ -16,7 +16,7 @@ for (const pack of packs) {
     await fs.rm(out, { recursive: true, force: true });
     console.log(`Cleaned: ${pack}`);
   } else {
-    await compilePack(src, out, { recursive: true, log: true });
+    await compilePack(src, out, { recursive: true, yaml: true, log: true });
     console.log(`Built: ${pack}`);
   }
 }
