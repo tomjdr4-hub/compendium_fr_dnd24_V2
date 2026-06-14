@@ -1,0 +1,148 @@
+{
+  "id": "compendium-fr-dnd24",
+  "title": "Compendium FR - D&D 2024",
+  "description": "Compendium francophone pour Dungeons & Dragons 2024 (SRD 5.2) sous Foundry VTT.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "tomjdr4-hub",
+      "url": "https://github.com/tomjdr4-hub"
+    }
+  ],
+  "url": "https://github.com/tomjdr4-hub/compendium_fr_dnd24_V2",
+  "manifest": "https://github.com/tomjdr4-hub/compendium_fr_dnd24_V2/releases/latest/download/module.json",
+  "download": "https://github.com/tomjdr4-hub/compendium_fr_dnd24_V2/releases/latest/download/module.zip",
+  "packs": [
+    {
+      "name": "content24",
+      "label": "Rules",
+      "path": "packs/content24",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes24",
+      "label": "Character Classes",
+      "path": "packs/classes24",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "origins24",
+      "label": "Character Origins",
+      "path": "packs/origins24",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "feats24",
+      "label": "Feats",
+      "path": "packs/feats24",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "spells24",
+      "label": "Spells",
+      "path": "packs/spells24",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "equipment24",
+      "label": "Equipment",
+      "path": "packs/equipment24",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tables24",
+      "label": "Roll Tables",
+      "path": "packs/tables24",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "actors24",
+      "label": "Actors",
+      "path": "packs/actors24",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "monsterfeatures24",
+      "label": "Monster Features",
+      "path": "packs/monsterfeatures24",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "D&D 2024 Content",
+      "color": "#cd2c1e",
+      "sorting": "m",
+      "packs": [
+        "content24",
+        "classes24",
+        "origins24",
+        "feats24",
+        "spells24",
+        "tables24",
+        "actors24",
+        "equipment24",
+        "monsterfeatures24"
+      ]
+    }
+  ]
+}
