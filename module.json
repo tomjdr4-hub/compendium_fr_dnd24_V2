@@ -25,7 +25,7 @@
     }
   ],
   "url": "https://github.com/tomjdr4-hub/compendium_fr_dnd24_V2",
-  "manifest": "https://github.com/tomjdr4-hub/compendium_fr_dnd24_V2/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/tomjdr4-hub/compendium_fr_dnd24_V2/main/module.json",
   "download": "https://github.com/tomjdr4-hub/compendium_fr_dnd24_V2/releases/latest/download/module.zip",
   "packs": [
     {
